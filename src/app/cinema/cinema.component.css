@@ -1,0 +1,13 @@
+.imageFile {
+  max-width: 250px;
+  max-height: 250px;
+}
+/* 
+.places{
+  display: grid !important;
+  margin: auto;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 0.2em;
+} */
+
+
